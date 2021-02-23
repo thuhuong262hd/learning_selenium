@@ -1,5 +1,5 @@
 {\rtf1\ansi\ansicpg1252\cocoartf2576
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fnil\fcharset0 Menlo-Regular;}
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 ArialMT;}
 {\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red27\green29\blue31;\red222\green224\blue226;
 \red27\green31\blue34;}
 {\*\expandedcolortbl;;\csgray\c0;\cssrgb\c14118\c15294\c16078;\cssrgb\c89412\c90196\c90980;
@@ -11,7 +11,7 @@
 	https://rvm.io/\
 \
 2. 
-\f1\fs22 \cf2 \CocoaLigature0 To start using RVM you need to run `source /Users/thuhuong/.rvm/scripts/rvm`\
+\fs22 \cf2 \CocoaLigature0 To start using RVM you need to run `source /Users/thuhuong/.rvm/scripts/rvm`\
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
     in all your open shell windows, in rare cases you need to reopen all shell windows.\
 \
