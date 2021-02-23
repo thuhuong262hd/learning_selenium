@@ -1,7 +1,8 @@
 
 #### To get started:
 1. Install RVM
-``` https://rvm.io/
+``` 
+   https://rvm.io/
 ```
 
 2. To start using RVM you need to run `source /Users/thuhuong/.rvm/scripts/rvm'
@@ -10,27 +11,36 @@
 ```
 
 3. Set PATH for drivers
-``` $echo $PATH
+``` 
+    $echo $PATH
     $export PATH=$PATH:/Exercise_Files/Drivers
 ```
 
 4. Install gem file
-``` $bundle install
+``` 
+    $bundle install
 ```
 5. Run a test file
-``` $rspec blog-test.rb 
+``` 
+    $rspec blog-test.rb 
 ```
 6. Run a hub
-``` $bundle install
+``` 
+    $bundle install
 ```
 
 7. Shutdown the hub service
-``` $lsof -i -n -P | grep 4444
+``` 
+    $lsof -i -n -P | grep 4444
     $kill -9 <PID>
 ```
 8. Register node to the hub
-``` $java -jar selenium-server-standalone-3.141.59.jar -role node -hub http://localhost:4444/grid/register 
+``` 
+   $java -jar selenium-server-standalone-3.141.59.jar -role node -hub http://localhost:4444/grid/register 
+```
 
 
 9. View nodes
-``` $http://localhost:4444/grid/consol
+```
+   $http://localhost:4444/grid/console
+```
