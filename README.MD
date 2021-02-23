@@ -5,8 +5,10 @@
    https://rvm.io/
 ```
 
-2. To start using RVM you need to run `source /Users/thuhuong/.rvm/scripts/rvm'
-``` in all your open shell windows, in rare cases you need to reopen all shell windows.
+2. To start using RVM you need to run 
+``` 
+    `source /Users/UserName/.rvm/scripts/rvm'
+    in all your open shell windows, in rare cases you need to reopen all shell windows.
     
 ```
 
