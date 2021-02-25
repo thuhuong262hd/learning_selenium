@@ -28,7 +28,7 @@
 ```
 6. Run a hub
 ``` 
-    $bundle install
+    $java -jar selenium-server-standalone-3.141.59.jar -role node -hub
 ```
 
 7. Shutdown the hub service
